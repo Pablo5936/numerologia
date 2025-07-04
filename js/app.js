@@ -3,7 +3,6 @@ const APELLIDOS = document.getElementById('apellidos')
 const FECHA_NACIMIENTO = document.getElementById('fecha-nacimiento')
 const RESULTADO = document.getElementById('resultado')
 
-let numeroPersonal = 0
 const valoresLetras = {
   A: 1,
   B: 2,
